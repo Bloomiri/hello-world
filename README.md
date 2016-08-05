@@ -1,3 +1,5 @@
 # hello-world
-my first repository
-now I am making and commiting changes for the first time
+
+Hi Humans!
+
+I am Bloomiri and this is my first commit change. Thank you.
